@@ -61,6 +61,7 @@ days_of_week.clear()  # clear the list
 days_of_week.append("Monday")  # add Monday back to the list
 print(days_of_week)
 
+
 # name = "nico"
 
 # print(name.replace("n", "m"))  # replace n with m
