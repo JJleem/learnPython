@@ -48,3 +48,5 @@ ruffles = GuardDog(name="samdol",breed="yorkshire")
 # ruffles = Puppy("Ruffles", "Beagle")
 bibi = Puppy(name="vinchi",breed="turtle")
 print(ruffles.grrr(), ruffles.name, ruffles.breed, ruffles.age)
+
+# class함수와 method 차이점
