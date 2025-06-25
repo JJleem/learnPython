@@ -15,6 +15,7 @@ class Puppy(Dog):
           
        )
        self.spoiled = True  # 기본값으로 True로 설정
+       
     def __str__(self):
         return f"Puppy(name={self.name}, age={self.age}, breed={self.breed})"
 

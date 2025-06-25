@@ -55,7 +55,7 @@ for job in jobs:
     }
     jobs_db.append(job)
 
-
+## csv 추출하기
 file = open("jobs.csv","w",encoding='utf-8', newline='')
 writter = csv.writer(file)
 writter.writerow(["Title","Company","Location","Reward","Link"])
